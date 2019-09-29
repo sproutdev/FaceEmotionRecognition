@@ -11,7 +11,7 @@ import numpy as np
 import fer2013
 from csv import reader
 
-with open('C:\\Users\\abhi\\HACK UTA\\fer2013\\fer2013.csv', 'r') as f:
+with open('fer2013.csv', 'r') as f:
     data = list(reader(f)) #Imports the CSV
 
 x_train = []
