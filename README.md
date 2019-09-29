@@ -23,9 +23,7 @@ The program will open a window that allows the webcam to take the picture of the
 
 
 Dataset:
-I have used this dataset
-
-Download it and put the csv in fer2013/fer2013/
+We have used the fer2013/fer2013/ dataset available in the source code.
 
 -fer2013 emotion classification test accuracy: 33%
 
